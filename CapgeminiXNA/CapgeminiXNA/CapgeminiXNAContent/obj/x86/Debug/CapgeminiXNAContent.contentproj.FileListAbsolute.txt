@@ -1,1 +1,2 @@
 S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\obj\x86\Debug\ResolveAssemblyReference.cache

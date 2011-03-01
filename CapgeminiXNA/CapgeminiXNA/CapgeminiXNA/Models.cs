@@ -57,7 +57,7 @@ namespace CapgeminiXNA
 
             foreach (ModelEntity bm in models)
             {
-                bm.Draw(((Game1)Game).camera);
+                bm.Draw(((Game)Game).camera);
             }
 
             base.Draw(gameTime);

@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Capgemini</Name>
     <Identity>
-      <SourceFilename>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\Models\CapLetters.FBX</SourceFilename>
+      <SourceFilename>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\Models\CapLetters.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>2.54 0 0 0 0 2.54 1.11026928E-07 0 0 -1.11026928E-07 2.54 0 50.451088 -26.0879421 -1.21116636E-06 1</Transform>

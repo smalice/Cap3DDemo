@@ -7,11 +7,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\CapgeminiLogo.xnb</Output>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\CapgeminiLogo.xnb</Output>
       <Time>2011-02-27T13:40:27.1133335+01:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\CapgeminiLogo_0.xml</Key>
-        <Value>2011-03-01T00:38:38.273896+01:00</Value>
+        <Value>2011-03-01T20:00:41.2738235+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -20,11 +20,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\CapLetters.xnb</Output>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\CapLetters.xnb</Output>
       <Time>2011-02-27T13:42:37.199774+01:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\CapLetters_0.xml</Key>
-        <Value>2011-03-01T00:38:38.4529063+01:00</Value>
+        <Value>2011-03-01T20:00:41.5768408+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -33,11 +33,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\GeminiLetters.xnb</Output>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\GeminiLetters.xnb</Output>
       <Time>2011-02-27T13:50:16.6050505+01:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\GeminiLetters_0.xml</Key>
-        <Value>2011-03-01T00:38:38.6149155+01:00</Value>
+        <Value>2011-03-01T20:00:41.7488507+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -46,11 +46,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\Line.xnb</Output>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\Line.xnb</Output>
       <Time>2011-02-27T13:51:32.4413881+01:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\Line_0.xml</Key>
-        <Value>2011-03-01T00:38:38.744923+01:00</Value>
+        <Value>2011-03-01T20:00:41.8818583+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -59,11 +59,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\ConTechOuts.xnb</Output>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\ConTechOuts.xnb</Output>
       <Time>2011-02-27T13:51:43.5350226+01:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\ConTechOuts_0.xml</Key>
-        <Value>2011-03-01T00:38:38.937934+01:00</Value>
+        <Value>2011-03-01T20:00:42.0828698+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -72,11 +72,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroup.xnb</Output>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroup.xnb</Output>
       <Time>2011-03-01T00:21:18.8244429+01:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\3dFocusGroup_0.xml</Key>
-        <Value>2011-03-01T00:38:39.4129612+01:00</Value>
+        <Value>2011-03-01T20:00:42.6919046+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -85,11 +85,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroupLogo.xnb</Output>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroupLogo.xnb</Output>
       <Time>2011-03-01T00:21:35.1213751+01:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\3dFocusGroupLogo_0.xml</Key>
-        <Value>2011-03-01T00:38:39.5989718+01:00</Value>
+        <Value>2011-03-01T20:00:43.0049225+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -144,13 +144,13 @@
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
-      <TargetProfile>Reach</TargetProfile>
+      <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\</RootDirectory>
-      <LoggerRootDirectory>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\</LoggerRootDirectory>
-      <IntermediateDirectory>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

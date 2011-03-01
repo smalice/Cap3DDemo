@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Rectangle01</Name>
     <Identity>
-      <SourceFilename>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\Models\Line.FBX</SourceFilename>
+      <SourceFilename>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\Models\Line.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>2.54 0 0 0 0 2.54 1.11026928E-07 0 0 -1.11026928E-07 2.54 0 -1.8956244 -48.8860474 18.0292759 1</Transform>

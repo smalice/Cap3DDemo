@@ -11,3 +11,16 @@ S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models
 S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\ConTechOuts.xnb
 S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\3dFocusGroup.xnb
 S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\3dFocusGroupLogo.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\CapgeminiXNA.exe
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\CapgeminiXNA.pdb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\CapgeminiLogo.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\CapLetters.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\GeminiLetters.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\Line.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\ConTechOuts.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\3dFocusGroup.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\3dFocusGroupLogo.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\CapgeminiXNA.exe
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\CapgeminiXNA.pdb

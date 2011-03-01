@@ -11,3 +11,16 @@ S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Mode
 S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\ConTechOuts.xnb
 S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroup.xnb
 S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroupLogo.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\CapgeminiLogo.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\CapLetters.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\GeminiLetters.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\Line.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\ConTechOuts.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroup.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\Content\Models\3dFocusGroupLogo.xnb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\CapgeminiXNA.exe
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Release\CapgeminiXNA.pdb
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Release\CapgeminiXNA.exe
+C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Release\CapgeminiXNA.pdb

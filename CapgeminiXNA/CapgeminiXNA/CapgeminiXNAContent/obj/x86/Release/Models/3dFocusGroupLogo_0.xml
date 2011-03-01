@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Line05</Name>
     <Identity>
-      <SourceFilename>S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\Models\3dFocusGroupLogo.FBX</SourceFilename>
+      <SourceFilename>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNAContent\Models\3dFocusGroupLogo.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>0.337434739 -2.397618E-15 -1.6095477E-08 0 3.10117376E-15 0.337434739 1.4749741E-08 0 1.6095477E-08 -1.4749741E-08 0.337434739 0 2.646978E-23 -1.93956568E-37 -4.217965 1</Transform>

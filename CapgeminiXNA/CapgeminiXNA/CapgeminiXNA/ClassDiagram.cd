@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapgeminiXNA.Camera">
+    <Position X="1.5" Y="2" Width="1.75" />
+    <InheritanceLine Type="Microsoft.Xna.Framework.GameComponent" FixedToPoint="true">
+      <Path>
+        <Point X="2.25" Y="6.5" />
+        <Point X="2.25" Y="5.867" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAIAAAQBAAAAAAAAEABAAAQAAAQAAAAAAQAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapgeminiXNA.Game">
+    <Position X="4.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAEkAAAgAAAwAAAAAAAgAAAAAIAAgAAAQABAAIQAQ=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="models" />
+      <Property Name="camera" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CapgeminiXNA.ModelEntity">
+    <Position X="9.75" Y="2.25" Width="1.75" />
+    <InheritanceLine Type="System.Object" FixedToPoint="true">
+      <Path>
+        <Point X="10.875" Y="11.5" />
+        <Point X="10.875" Y="5.334" />
+        <Point X="10.75" Y="5.334" />
+        <Point X="10.75" Y="4.959" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAoAAIAAAAAAAAAAAAAAAAAABAAAIAAA=</HashCode>
+      <FileName>ModelEntity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="model" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CapgeminiXNA.Models">
+    <Position X="7" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAIAAQ=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="models" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CapgeminiXNA.Program">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.DrawableGameComponent">
+    <Position X="6.75" Y="6.5" Width="2.25" />
+    <TypeIdentifier />
+    <Lollipop Orientation="Right" Position="0.158" />
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.GameComponent">
+    <Position X="1.25" Y="6.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="10" Y="11.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.Graphics.Model">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
