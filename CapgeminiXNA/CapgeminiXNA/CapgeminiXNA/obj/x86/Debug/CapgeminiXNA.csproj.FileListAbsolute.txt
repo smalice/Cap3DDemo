@@ -1,0 +1,13 @@
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\CapgeminiXNA.exe
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\CapgeminiXNA.pdb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\CapgeminiXNA.exe
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\obj\x86\Debug\CapgeminiXNA.pdb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\CapgeminiLogo.xnb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\CapLetters.xnb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\GeminiLetters.xnb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\Line.xnb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\ConTechOuts.xnb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\3dFocusGroup.xnb
+S:\Utvikling\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\3dFocusGroupLogo.xnb
