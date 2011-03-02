@@ -35,7 +35,7 @@ namespace CapgeminiXNA
             models.Add(new ModelEntity(
                 Game.Content.Load<Model>(@"Models/3dFocusGroup")));
             models.Add(new ModelEntity(
-                Game.Content.Load<Model>(@"Models/3dFocusGroupLogo")));
+                Game.Content.Load<Model>(@"Models/3dFocusGroupLogo.FBX")));
 
             base.LoadContent();
         }

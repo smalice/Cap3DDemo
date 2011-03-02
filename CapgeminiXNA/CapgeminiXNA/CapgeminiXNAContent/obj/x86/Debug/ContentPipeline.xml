@@ -141,6 +141,26 @@
       <Output>obj\x86\Debug\Models\3dFocusGroupLogo_0.xml</Output>
       <Time>2011-03-01T23:48:58.1632408+01:00</Time>
     </Item>
+    <Item>
+      <Source>Models\CapgeminiLogoX.X</Source>
+      <Name>Models\CapgeminiLogoX</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\flonge\Cap3DDemo\CapgeminiXNA\CapgeminiXNA\CapgeminiXNA\bin\x86\Debug\Content\Models\CapgeminiLogoX.xnb</Output>
+      <Time>2011-03-02T01:17:05.2226433+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\CapgeminiLogoX_0.xml</Key>
+        <Value>2011-03-02T01:17:07.5147744+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\CapgeminiLogoX.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\CapgeminiLogoX_0.xml</Output>
+      <Time>2011-03-02T01:17:05.2226433+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
